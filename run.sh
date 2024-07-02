@@ -5,7 +5,5 @@ python ipchrome.py \
     --allowed_broadcast_areas "c/PL" \
     --banned_endings ".us" ".be" ".nl" \
     --forced_endings ".pl" \
-    --merge false \
-    --fetch false \
-    --timeout 1 \
+    --timeout 3 \
     --verbose
